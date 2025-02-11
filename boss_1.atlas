@@ -1,0 +1,16 @@
+boss_1.png
+size:1405,1973
+filter:Linear,Linear
+bag
+bounds:596,2,558,622
+body
+bounds:2,100,623,1871
+hand_l
+bounds:1156,95,247,986
+hand_r
+bounds:1112,1275,206,696
+head
+bounds:671,1516,439,455
+shadow
+bounds:529,626,938,630
+rotate:270
