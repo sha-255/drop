@@ -1,0 +1,9 @@
+blank.png
+size:1023,2485
+filter:Linear,Linear
+body
+bounds:2,2,1019,2481
+eye_l
+bounds:630,390,82,36
+eye_r
+bounds:617,428,89,43
